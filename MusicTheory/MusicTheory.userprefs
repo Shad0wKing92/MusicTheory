@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\updateHealth.cs">
+    <Files>
+      <File FileName="..\MiniGame\Assets\Movement.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\NoteManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\NoteSpawner.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PracticeNoteSpawner.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\updateHealth.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

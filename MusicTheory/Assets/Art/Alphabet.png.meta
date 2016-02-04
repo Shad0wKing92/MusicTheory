@@ -1,0 +1,181 @@
+fileFormatVersion: 2
+guid: 8bd5393c82675fc40810e9fd5b5d0279
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: B
+    21300002: Alphabet_1
+    21300004: Alphabet_2
+    21300006: ASharp
+    21300008: CSharp
+    21300010: C
+    21300012: D
+    21300014: DSharp
+    21300016: E
+    21300018: FSharp
+    21300020: G
+    21300022: F
+    21300024: GSharp
+    21300026: A
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: B
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 624
+        width: 99
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ASharp
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 686
+        width: 113
+        height: 102
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CSharp
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 547
+        width: 120
+        height: 114
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 512
+        width: 80
+        height: 87
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: D
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 408
+        width: 93
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DSharp
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 399
+        width: 121
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: E
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 308
+        width: 78
+        height: 83
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FSharp
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 255
+        width: 116
+        height: 108
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: G
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 102
+        width: 98
+        height: 91
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 211
+        width: 76
+        height: 81
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GSharp
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 119
+        width: 115
+        height: 113
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: A
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 742
+        width: 100
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
